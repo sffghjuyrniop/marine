@@ -1,0 +1,37 @@
+body {
+	background-image: url("IMG_20230701_175633_607.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.box {
+	width: 90%;
+	height: 400px;
+	position: relative;
+	margin-top: 973px;
+	margin-left: 52px;
+}
+.item {
+	width: 200px;
+	height: 190px;
+	position: absolute;
+}
+.web {
+	left: -49px;
+    top: 66px;
+}
+.ins {
+	left: 127px;
+    top: 170px;
+}
+.eml {
+	top: 205px;
+    left: 340px
+}
+.tel{
+	right: 117px;
+    top: 170px
+}
+.pon{
+	right: -53px;
+    top: 73px;
+}
